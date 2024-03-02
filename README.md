@@ -31,10 +31,13 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
 
 ## 🗂 Documentation
 
-[High Level Document]
-[Low Level Document]
+[High Level Document](https://github.com/Learner0197/AmazonSales_DataAnalysis/blob/main/HLD%20Document.pdf)
 
-[Architecture]
-[WireFrame]
-[Report]
+[Low Level Document](https://github.com/Learner0197/AmazonSales_DataAnalysis/blob/main/LLD%20Document.pdf)
+
+[Architecture](https://github.com/Learner0197/AmazonSales_DataAnalysis/blob/main/Architecture.pdf)
+
+[WireFrame](https://github.com/Learner0197/AmazonSales_DataAnalysis/blob/main/Wireframe.pdf)
+
+[Report](https://github.com/Learner0197/AmazonSales_DataAnalysis/blob/main/Project%20report.pptx)
 
